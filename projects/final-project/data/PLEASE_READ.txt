@@ -1,0 +1,7 @@
+Please click on the link to learn more about each dataset!
+
+Zoom: https://www.kaggle.com/datasets/ranugadisansagamage/zoom-stocks
+Car: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho?select=CAR+DETAILS+FROM+CAR+DEKHO.csv
+Possum: https://www.kaggle.com/datasets/abrambeyer/openintro-possum
+Water: https://www.kaggle.com/datasets/adityakadiwal/water-potability (could do classification with this one)
+Lizard: https://portal.edirepository.org/nis/metadataviewer?packageid=knb-lter-and.4027.14 (col info under Data Entities)
